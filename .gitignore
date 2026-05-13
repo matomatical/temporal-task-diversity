@@ -1,0 +1,13 @@
+# experiment artefacts
+logs
+runs/*
+!runs/.gitkeep
+
+# other
+__pycache__
+.env
+.claude
+.cursor
+.DS_Store
+.venv
+*.egg_info

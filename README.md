@@ -8,7 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://tais2026.cc/proceedings/farrugiaroberts-temporal-diversity">Paper</a> presented at <a href="https://tais2026.cc/">TAIS 2026</a>
+  <a href="https://tais2026.cc/proceedings/farrugiaroberts-temporal-diversity"><img src="https://img.shields.io/badge/TAIS-2026-blue"/></a>
+  <a href="https://arxiv.org/abs/2605.18281"><img src="https://img.shields.io/badge/arXiv-2605.18281-b31b1b.svg"/></a>
 </p>
 
 > **Abstract:** Modern deep learning science often assumes that neural networks
